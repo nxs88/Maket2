@@ -137,7 +137,9 @@ a {
 .footer__lang-item--current {
   color: #7e7e82;
 }
-
+.round-icon {
+  transition: transform 0.5s ease-out;
+}
 .round-icon:hover {
   transform: scale(1.2);
 }
