@@ -49,6 +49,7 @@ a {
 }
 .header__inner {
   display: flex;
+  align-items:center;
   padding-top: 23px;
   gap: 16px;
   margin-bottom: 45px;
